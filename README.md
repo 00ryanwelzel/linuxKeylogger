@@ -2,8 +2,6 @@
 
 ## (Ryan Welzel 6/1/2025)
 
-linuxKeylogger:
-
 Simple Linux keylogger written in C using libudev.
 
 
