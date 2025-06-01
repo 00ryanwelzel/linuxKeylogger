@@ -4,6 +4,7 @@
 
 Simple Linux keylogger written in C using libudev.
 
+------
 
 Features:
 - Automatically detects the active keyboard using libudev
