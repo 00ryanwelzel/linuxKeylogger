@@ -2,7 +2,7 @@
 
 ## (Ryan Welzel 6/1/2025)
 
-Simple Linux keylogger written in C using libudev.
+Linux keylogger written in C using libudev.
 
 ---
 
