@@ -19,4 +19,4 @@ Requirements:
 
 
 Install dependencies with:
-- Bash: sudo apt install build-essential libudev-dev
+- sudo apt install build-essential libudev-dev
